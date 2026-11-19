@@ -164,4 +164,4 @@ You can easily open and customize:
    - `SESSION_SECRET` = `[a random 32+ character string]`
 5. Click **Deploy**!
 6. Once deployed, share the link with Shuttu along with the password hint. ❤️
-# New
+
